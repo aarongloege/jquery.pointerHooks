@@ -1,0 +1,11 @@
+{
+  "name": "jquery.pointerHooks",
+  "main": "jquery.pointerHooks.js",
+  "version": "0.9.0",
+  "homepage": "https://github.com/aarongloege/jquery.pointerHooks",
+  "authors": [
+    "Aaron Gloege <aaron.gloege@gmail.com>"
+  ],
+  "description": "jQuery event hook for PointerEvents",
+  "license": "MIT"
+}

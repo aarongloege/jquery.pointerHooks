@@ -1,0 +1,13 @@
+{
+    "name": "jquery-pointerHooks",
+    "version": "0.9.0",
+    "description": "jQuery event hook for PointerEvents",
+    "private": true,
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "0.4.2",
+        "load-grunt-tasks": "0.2.0",
+        "grunt-contrib-watch": "0.5.3",
+        "grunt-contrib-uglify": "0.3.2"
+    }
+}
